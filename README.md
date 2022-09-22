@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @anailaa
-- 👀 I’m interested in ... desenvolver na programação e uma primeira oportunidade na área. 
-- 🌱 I’m currently learning ... Python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... 
+- 👀 I’m interested in programming and a first opportunity in the area.
+- 🌱 I’m currently learning Python and Data Science
 
 
 
